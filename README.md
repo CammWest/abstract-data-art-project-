@@ -25,7 +25,7 @@ https://docs.google.com/spreadsheets/d/1o4qxsTn1b9HeD7tmwvJP4BnyZiNb7j2IkTuw1GDD
 
 ## UML Diagram
 
-![UML Diagram for my project](nameOfImageFileHere.png)
+![UML Diagram for my project](![alt text](image.png))
 
 ## Video Demo
 
@@ -37,7 +37,7 @@ Record a short video of your abstract art animation to display here on your READ
 - Upload the thumbnail image to your repo.
 - Use the following markdown
 
-[![Thumbnail for my projet](nameOfThumbnail.png)](youtube-URL-here)
+[![Thumbnail for my projet](![alt text](image-1.png)https://www.youtube.com/shorts/7uuBu_AGQhE
 
 ## Description
 
